@@ -1,0 +1,7 @@
+{
+  "name": "PSCMRCET Sports Arena",
+  "description": "Centralized sports tournament, team rosters, live fixtures, and department leaderboard platform for PSCMR College of Engineering & Technology, Vijayawada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
